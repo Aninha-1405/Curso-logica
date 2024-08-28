@@ -1,7 +1,5 @@
 #3. Letra de música - Faça um programa que mostre na tela uma letra de música que você gosta (proibido letras do Justin Bieber).
 
-print("xxxxx")
-print("x   x")
-print("x   x")
-print("x   x")
-print("xxxxx")
+print(":) Doida pra se entorpecer")
+print("Na vibe desse solo, desse entardecer")
+
